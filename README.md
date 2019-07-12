@@ -1,4 +1,4 @@
-# Code an Anagram in Python
+# 4 Ways to Code an Anagram in Python
 An anagram is word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.[1] For example, the word anagram can be rearranged into "nag a ram".
 
 4 Ways to Code an Anagram
